@@ -32,15 +32,15 @@ I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS, and from time to time I d
 ⚙️ I have some projects, kinda, small trinkets I make for fun.
 
 Project                   | Progress                | Location
------------               | --------                |--------                     |
-neofetch fork             | In Progress             | Soon...                     |
-Discord Bots              | Prob gonna do it        | Soon... Probably, idk       |
-Tic Tac Toe Python GUI    | Never gonna finish it   | Around... I guess?          |
-Personal Website # 1      | Kinda Complete(?)       | Coming Soon                 |
-Personal Website # 2      | Maybe Complete(?)       | My Profile                  |
-Data Structures Labs      | In Progress             | Soon...                     |
-Dots (i3)                 | In Progress             | Soon... Probably, idk       |
-Custom Firefox Homepage   | Done (kinda)            | When I remember to push it  |
+-----------               | --------                |--------                                                               |
+neofetch fork             | In Progress             | Soon...                                                               |
+Discord Bots              | Prob gonna do it        | Soon... Probably, idk                                                 |
+Tic Tac Toe Python GUI    | Never gonna finish it   | Around... I guess?                                                    |
+Personal Website # 1      | Kinda Complete(?)       | Coming Soon                                                           |
+Personal Website # 2      | Maybe Complete(?)       | My Profile                                                            |
+Data Structures Labs      | In Progress             | https://github.com/FrenzyExists/DataStructuresLab                     |
+Dots (i3)                 | In Progress             | Soon... Probably, idk                                                 |
+Custom Firefox Homepage   | Done (kinda)            | When I remember to push it                                            |
 
 
 If I can remember (or not procrastinate or something) I'll attach here my website thingy, my resume, and some other stuff I have around idk. Anyway hire me i need a job lul
