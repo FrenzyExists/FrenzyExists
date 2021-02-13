@@ -33,7 +33,7 @@ I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS, and from time to time I d
 
 Project                   | Progress                | Location
 -----------               | --------                |--------                                                               |
-neofetch fork             | In Progress             | Soon...                                                               |
+neofetch fork             | Cleaning B L O A T      | https://github.com/FrenzyExists/neofetch                              |
 Discord Bots              | Prob gonna do it        | Soon... Probably, idk                                                 |
 Tic Tac Toe Python GUI    | Never gonna finish it   | Around... I guess?                                                    |
 Personal Website # 1      | Kinda Complete(?)       | Coming Soon                                                           |
