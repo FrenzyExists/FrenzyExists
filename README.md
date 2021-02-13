@@ -41,6 +41,7 @@ Personal Website # 2      | Maybe Complete(?)       | My Profile                
 Data Structures Labs      | In Progress             | https://github.com/FrenzyExists/DataStructuresLab                     |
 Dots (i3)                 | In Progress             | Soon... Probably, idk                                                 |
 Custom Firefox Homepage   | Done (kinda)            | When I remember to push it                                            |
+Custom Lightdm (Fork)     | Just Started working    | Somewhere on my laptop idfk                                           |
 
 
 If I can remember (or not procrastinate or something) I'll attach here my website thingy, my resume, and some other stuff I have around idk. Anyway hire me i need a job lul
