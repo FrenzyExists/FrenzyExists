@@ -45,4 +45,12 @@ Custom Firefox Homepage   | Done (kinda)            | When I remember to push it
 
 If I can remember (or not procrastinate or something) I'll attach here my website thingy, my resume, and some other stuff I have around idk. Anyway hire me i need a job lul
 
-⚡ Fun fact: Pikachu is a mouse
+[![Frenzy's Stats](https://github-readme-stats.vercel.app/api?username=frenzyexists&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=frenzyexists&theme=nord" />
+</a><br/><br/><br/><br/><br/><br/><br/>
+
+
+### ⚡ Fun fact: Pikachu is a mouse
