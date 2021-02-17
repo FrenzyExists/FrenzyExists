@@ -29,6 +29,8 @@ I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS, and from time to time I d
 
 💻 Currently using ~Manjaro~ Endeavor OS with i3 aka the virgin wm on Nord theme aka the Normie theme
 
+:smile: Pronouns: it
+
 ⚙️ I have some projects, kinda, small trinkets I make for fun.
 
 Project                   | Progress                    | Location
