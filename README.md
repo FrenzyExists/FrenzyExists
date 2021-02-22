@@ -40,7 +40,7 @@ Discord Bots                | Prob gonna do it            | Soon... Probably, id
 Tic Tac Toe Python GUI      | Never gonna finish it       | Around... I guess?                                                    |
 Personal Website # 1        | Kinda Complete(?)           | Coming Soon                                                           |
 Personal Website # 2        | Maybe Complete(?)           | My Profile                                                            |
-Data Structures Labs        | Currently on Third Lab      | https://github.com/FrenzyExists/DataStructuresLab                     |
+Data Structures Labs        | 🎉 Third Lab complete 🎉     | https://github.com/FrenzyExists/DataStructuresLab                     |
 Dots (i3)                   | 🎉 Finally has a release 🎉  | https://github.com/FrenzyExists/Nord-dot-files-i3                     |
 Custom Firefox Homepage     | Done (kinda)                | When I remember to push it                                            |
 Custom Lightdm (Fork)       | Just Started working        | Somewhere on my laptop idfk                                           |
