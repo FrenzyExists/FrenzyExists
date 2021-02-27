@@ -36,6 +36,7 @@ I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS, and from time to time I d
 Project                     | Progress                    | Location
 -----------                 | --------                    |--------                                                               |
 neofetch fork               | Cleaning B L O A T          | https://github.com/FrenzyExists/neofetch                              |
+Score Board JS              | Done... yay                 | https://github.com/FrenzyExists/OneDayBootCampScoreboard              |
 Discord Bots                | Prob gonna do it            | Soon... Probably, idk                                                 |
 Tic Tac Toe Python GUI      | Never gonna finish it       | Around... I guess?                                                    |
 Personal Website # 1        | Kinda Complete(?)           | Coming Soon                                                           |
