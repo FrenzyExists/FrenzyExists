@@ -42,7 +42,7 @@ Personal Website # 1        | Kinda Complete(?)           | Coming Soon         
 Personal Website # 2        | Maybe Complete(?)           | My Profile                                                            |
 Data Structures Labs        | 🎉 Third Lab complete 🎉     | https://github.com/FrenzyExists/DataStructuresLab                     |
 Dots (i3)                   | 🎉 Finally has a release 🎉  | https://github.com/FrenzyExists/Nord-dot-files-i3                     |
-Custom Firefox Homepage     | Done (kinda)                | When I remember to push it                                            |
+Custom Firefox Homepage     | Done (kinda)                | https://github.com/FrenzyExists/NordFirefox (I remembered)            |
 Custom Lightdm (Fork)       | Just Started working        | Somewhere on my laptop idfk                                           |
 Meteora: a Pygame game      | Lying around with dust lul  | https://github.com/FrenzyExists/Meteora-python (enjoy the cringe)     |
 JS Painter (Its just there  | Completed yay               | https://github.com/FrenzyExists/Simple_Paint_JS                       |
