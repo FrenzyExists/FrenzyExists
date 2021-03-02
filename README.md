@@ -55,7 +55,7 @@ If I can remember (or not procrastinate or something) I'll attach here my websit
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=frenzyexists&theme=nord" />
 </a><br/>
-[![Project Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Project Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/><br/><br/><br/><br/>
 
