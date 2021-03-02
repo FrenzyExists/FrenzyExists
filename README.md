@@ -52,11 +52,12 @@ Data Structures P1          | Sorting things out, kinda   | Just Gimme 8 days (c
 If I can remember (or not procrastinate or something) I'll attach here my website thingy, my resume, and some other stuff I have around idk. Anyway hire me i need a job lul
 
 [![Frenzy's Stats](https://github-readme-stats.vercel.app/api?username=frenzyexists&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=frenzyexists&theme=nord" />
-</a><br/><br/><br/><br/><br/><br/><br/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=frenzyexists&theme=nord" />
+</a><br/>
+[![Project Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/><br/><br/><br/><br/><br/>
 
 ### Spotify Playing 🎧 
 [<img src="https://spotify-now-playing-hhsy1ompp-frenzyexists.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31384113f5b94495bfa760f151223b29)
