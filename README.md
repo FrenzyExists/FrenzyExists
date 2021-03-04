@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi! My name is [Frenzy](https://frenzyexists.github.io/Webfolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Profile Views](https://api.ghprofile.me/view?username=frenzyexists&label=profile_views)
+![Profile Views](https://api.ghprofile.me/view?username=frenzyexists&color=2E3440&label=profile_views)
 
 📓 Just your regular college boi who's always procrastinating and writing shit code.
 
