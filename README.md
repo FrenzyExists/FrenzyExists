@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Hi! My name is [Frenzy](https://frenzyexists.github.io/Webfolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+![Profile Views](https://api.ghprofile.me/view?username=frenzyexists&label=profile_views)
+
 📓 Just your regular college boi who's always procrastinating and writing shit code.
 
 🙃 I tend to forget the things I make so sometimes I end projects halved other times are done a year later, or simply never
@@ -53,8 +55,7 @@ If I can remember (or not procrastinate or something) I'll attach here my websit
 
 [![Frenzy's Stats](https://github-readme-stats.vercel.app/api?username=frenzyexists&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
-<a href="https://wakatime.com"><img width="640px" src="https://wakatime.com/share/@frenzyexists/a01cbadb-6523-4eca-a05d-711f71e0b098.png" /></a>
-<br/><br/>
+
 [![Project Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/><br/><br/><br/>
