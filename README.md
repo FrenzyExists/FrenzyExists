@@ -1,18 +1,6 @@
 <!--
 **FrenzyExists/FrenzyExists** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--  I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi! My name is [Frenzy](https://frenzyexists.github.io/Webfolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Profile Views](https://api.ghprofile.me/view?username=frenzyexists&color=2E3440&label=profile_views)
@@ -43,13 +31,13 @@ Discord Bots                | Prob gonna do it               | Soon... Probably,
 Tic Tac Toe Python GUI      | Never gonna finish it          | Around... I guess?                                                    |
 Personal Website # 1        | Kinda Complete(?)              | Coming Soon                                                           |
 Personal Website # 2        | Maybe Complete(?)              | My Profile                                                            |
-Data Structures Labs        | Working on Fourth Lab...       | https://github.com/FrenzyExists/DataStructuresLab                     |
+Data Structures Labs        | 6th Lab Soon...                | https://github.com/FrenzyExists/DataStructuresLab                     |
 Dots (i3)                   | 🎉 Finally has a release 🎉     | https://github.com/FrenzyExists/Nord-dot-files-i3                     |
 Custom Firefox Homepage     | Done (kinda)                   | https://github.com/FrenzyExists/NordFirefox (I remembered)            |
 Custom Lightdm (Fork)       | Just Started working           | Somewhere on my laptop idfk                                           |
 Meteora: a Pygame game      | Lying around with dust lul     | https://github.com/FrenzyExists/Meteora-python (enjoy the cringe)     |
 JS Painter (Its just there  | Completed yay                  | https://github.com/FrenzyExists/Simple_Paint_JS                       |
-Data Structures P1          | Got P1, P2, P3 and P4 done, time to do the CLI | https://github.com/FrenzyExists/Solve-The-Fucking-Crime |
+Data Structures P1          |  🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Solve-The-Fucking-Crime               |
 
 If I can remember (or not procrastinate or something) I'll attach here my website thingy, my resume, and some other stuff I have around idk. Anyway hire me i need a job lul
 
