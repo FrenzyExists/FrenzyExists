@@ -1,5 +1,3 @@
-<!--
-**FrenzyExists/FrenzyExists** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi! My name is [Frenzy](https://frenzyexists.github.io/Webfolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
