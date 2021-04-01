@@ -44,6 +44,10 @@ If I can remember (or not procrastinate or something) I'll attach here my websit
 
 [![Project Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/><br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frenzyexists&theme=nord" alt="frenzystreaks" /></p>
+
 <br/><br/><br/><br/><br/>
 
 
