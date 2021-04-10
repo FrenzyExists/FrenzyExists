@@ -25,7 +25,6 @@ Project                     | Progress                       | Location
 -----------                 | --------                       |--------                                                               |
 neofetch fork               | I FORGOT I HAD TO FINISH THIS  | https://github.com/FrenzyExists/frenzyfetch                           |
 Score Board JS              | Done... yay                    | https://github.com/FrenzyExists/OneDayBootCampScoreboard              |
-Discord Bots                | Prob gonna do it               | Soon... Probably, idk                                                 |
 Tic Tac Toe Python GUI      | Never gonna finish it          | Around... I guess?                                                    |
 Personal Website # 1        | Kinda Complete(?)              | Coming Soon                                                           |
 Personal Website # 2        | Maybe Complete(?)              | My Profile                                                            |
@@ -35,7 +34,8 @@ Custom Firefox Homepage     | Done (kinda)                   | https://github.co
 Custom Lightdm (Fork)       | Just Started working           | Somewhere on my laptop idfk                                           |
 Meteora: a Pygame game      | Lying around with dust lul     | https://github.com/FrenzyExists/Meteora-python (enjoy the cringe)     |
 JS Painter (Its just there  | Completed yay                  | https://github.com/FrenzyExists/Simple_Paint_JS                       |
-Data Structures P1          |  🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Solve-The-Fucking-Crime               |
+Data Structures P1          |  🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Solve-The-Crime                       |
+Data Structures P2          | In  P R O G R E S S            | https://github.com/FrenzyExists/Linked-Lists-Everywhere               |
 
 If I can remember (or not procrastinate or something) I'll attach here my website thingy, my resume, and some other stuff I have around idk. Anyway hire me i need a job lul
 
