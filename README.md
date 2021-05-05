@@ -1,5 +1,5 @@
 
-# Hi! My name is [Frenzy](https://frenzyexists.github.io/Webfolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi! My name is [Frenzy ](https://frenzyexists.github.io/Webfolio/) <img src="https://raw.githubusercontent.com/FrenzyExists/FrenzyExists/master/pikahello.gif" width="80px">
 
 ![Profile Views](https://api.ghprofile.me/view?username=frenzyexists&color=2E3440&label=profile_views)
 
