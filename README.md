@@ -35,7 +35,7 @@ Custom Lightdm (Fork)       | Just Started working           | Somewhere on my l
 Meteora: a Pygame game      | Lying around with dust lul     | https://github.com/FrenzyExists/Meteora-python (enjoy the cringe)     |
 JS Painter (Its just there  | Completed yay                  | https://github.com/FrenzyExists/Simple_Paint_JS                       |
 Data Structures P1          |  🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Solve-The-Crime                       |
-Data Structures P2          | In  P R O G R E S S            | https://github.com/FrenzyExists/Linked-Lists-Everywhere               |
+Data Structures P2          |  🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Linked-Lists-Everywhere               |
 
 If I can remember (or not procrastinate or something) I'll attach here my website thingy, my resume, and some other stuff I have around idk. Anyway hire me i need a job lul
 
