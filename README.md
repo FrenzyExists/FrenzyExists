@@ -48,7 +48,11 @@ If I can remember (or not procrastinate or something) I'll attach here my websit
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frenzyexists&theme=nord" alt="frenzystreaks" /></p>
 
-<br/><br/><br/><br/><br/>
+<br/><br/>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=frenzyexists&title=Stars,Followers,Commit,PR,Repo&theme=nord&no-frame=true&margin-w=15)
+
+<br/><br/><br/><br/>
 
 
 ### Spotify Playing 🎧 
