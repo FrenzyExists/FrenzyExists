@@ -23,19 +23,18 @@ I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS, and from time to time I d
 
 Project                     | Progress                       | Location
 -----------                 | --------                       |--------                                                               |
-neofetch fork               | I FORGOT I HAD TO FINISH THIS  | https://github.com/FrenzyExists/frenzyfetch                           |
+frenzch                     | Early access                   | https://github.com/FrenzyExists/frenzch.sh                            |
 Score Board JS              | Done... yay                    | https://github.com/FrenzyExists/OneDayBootCampScoreboard              |
 Tic Tac Toe Python GUI      | Never gonna finish it          | Around... I guess?                                                    |
 Personal Website # 1        | Kinda Complete(?)              | Coming Soon                                                           |
 Personal Website # 2        | Maybe Complete(?)              | My Profile                                                            |
 Data Structures Labs        | 6th Lab Soon...                | https://github.com/FrenzyExists/DataStructuresLab                     |
-Dots (i3)                   | 🎉 Finally has a release 🎉     | https://github.com/FrenzyExists/Nord-dot-files-i3                     |
+Dots (i3)                   | 🎉 Finally has a release 🎉     | https://github.com/FrenzyExists/Nord-dot-files-i3                    |
 Custom Firefox Homepage     | Done (kinda)                   | https://github.com/FrenzyExists/NordFirefox (I remembered)            |
-Custom Lightdm (Fork)       | Just Started working           | Somewhere on my laptop idfk                                           |
 Meteora: a Pygame game      | Lying around with dust lul     | https://github.com/FrenzyExists/Meteora-python (enjoy the cringe)     |
 JS Painter (Its just there  | Completed yay                  | https://github.com/FrenzyExists/Simple_Paint_JS                       |
-Data Structures P1          |  🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Solve-The-Crime                       |
-Data Structures P2          |  🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Linked-Lists-Everywhere               |
+Data Structures P1          |  🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Solve-The-Crime                      |
+Data Structures P2          |  🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Linked-Lists-Everywhere              |
 
 If I can remember (or not procrastinate or something) I'll attach here my website thingy, my resume, and some other stuff I have around idk. Anyway hire me i need a job lul
 
