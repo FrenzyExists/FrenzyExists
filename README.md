@@ -3,7 +3,7 @@
 
 ![Profile Views](https://api.ghprofile.me/view?username=frenzyexists&color=2E3440&label=profile_views)
 
-📓 Just your regular college boi who's always procrastinating and writing shit code.
+📓 A regular college boi who procrastinates and writes 💩 code.
 
 🙃 I tend to forget the things I make so sometimes I end projects halved other times are done a year later, or simply never
 
@@ -15,28 +15,37 @@ I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS, and from time to time I d
 
 👾 Linux is my passion, even if its one to suffer when ricing
 
-💻 Currently using ~Manjaro~ Endeavor OS with i3 aka the virgin wm on Nord theme aka the Normie theme
+💻 Currently using *based* Archlabs on bspwm themed with my own colorscheme, [Aquarium](https://github.com/FrenzyExists/aquarium-vim)
 
-:smile: Pronouns: it
+:smile: Pronouns: Apache Attack Helicopter 🚁
+
+### Current dots
+- [Aquarium dotfiles](https://github.com/FrenzyExists/dotfiles)
 
 ⚙️ I have some projects, kinda, small trinkets I make for fun.
 
 Project                     | Progress                       | Location
------------                 | --------                       |--------                                                               |
-frenzch                     | Early access                   | https://github.com/FrenzyExists/frenzch.sh                            |
-Score Board JS              | Done... yay                    | https://github.com/FrenzyExists/OneDayBootCampScoreboard              |
-Tic Tac Toe Python GUI      | Never gonna finish it          | Around... I guess?                                                    |
-Personal Website # 1        | Kinda Complete(?)              | Coming Soon                                                           |
-Personal Website # 2        | Maybe Complete(?)              | My Profile                                                            |
-Data Structures Labs        | 6th Lab Soon...                | https://github.com/FrenzyExists/DataStructuresLab                     |
-Dots (i3)                   | 🎉 Finally has a release 🎉     | https://github.com/FrenzyExists/Nord-dot-files-i3                    |
-Custom Firefox Homepage     | Done (kinda)                   | https://github.com/FrenzyExists/NordFirefox (I remembered)            |
-Meteora: a Pygame game      | Lying around with dust lul     | https://github.com/FrenzyExists/Meteora-python (enjoy the cringe)     |
-JS Painter (Its just there  | Completed yay                  | https://github.com/FrenzyExists/Simple_Paint_JS                       |
-Data Structures P1          |  🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Solve-The-Crime                      |
-Data Structures P2          |  🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Linked-Lists-Everywhere              |
+-----------                 | --------                       |--------                                                              |
+frenzch                     | Early access                   | https://github.com/FrenzyExists/frenzch.sh                           |
+Score Board JS              | Done... yay                    | https://github.com/FrenzyExists/OneDayBootCampScoreboard             |
+Tic Tac Toe Python GUI      | Never gonna finish it          | Around... I guess?                                                   |
+Personal Website # 1        | Kinda Complete(?)              | Coming Soon                                                          |
+Personal Website # 2        | Maybe Complete(?)              | My Profile                                                           |
+Data Structures Labs        | 6th Lab Soon...                | https://github.com/FrenzyExists/DataStructuresLab                    |
+Dots (i3)                   | 🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Nord-dot-files-i3                    |
+Custom Firefox Homepage     | Done (kinda)                   | https://github.com/FrenzyExists/NordFirefox (I remembered)           |
+Meteora: a Pygame game      | 🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Meteora-python (enjoy the cringe)    |
+JS Painter                  | 🎉 Completed 🎉                | https://github.com/FrenzyExists/Simple_Paint_JS                      |
+Data Structures P1          | 🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Solve-The-Crime                      |
+Data Structures P2          | 🎉 Finally has a release 🎉    | https://github.com/FrenzyExists/Linked-Lists-Everywhere              |
 
 If I can remember (or not procrastinate or something) I'll attach here my website thingy, my resume, and some other stuff I have around idk. Anyway hire me i need a job lul
+
+### Also, I have some sweet-sweet resources over here
+Resource                                                  | Description
+-----------                                               | --------
+[Wallpapers](https://github.com/FrenzyExists/wallpapers)  | Aesthetic Wallpapers
+[Programming Books](https://github.com/FrenzyExists/programming-books) | Ebook dump, its based
 
 [![Frenzy's Stats](https://github-readme-stats.vercel.app/api?username=frenzyexists&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
