@@ -3,21 +3,26 @@
 
 ![Profile Views](https://api.ghprofile.me/view?username=frenzyexists&color=2E3440&label=profile_views)
 
-📓 A regular college boi who procrastinates and writes 💩 code.
+## 💡 About
+<a href="https://github.com/NNBnh">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=FrenzyExists&show_icons=true&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A">
+  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrenzyExists&currStreakLabel=E6DFB8&sideLabels=cddbf9&currStreakNum=caf6bb&sideNums=E6DFB8&dates=E6DFB8&ring=cddbf9&fire=cddbf9&stroke=caf6bb&background=20202A">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
+</a>
 
-🙃 I tend to forget the things I make so sometimes I end projects halved other times are done a year later, or simply never
+- 📓 A regular college boi who procrastinates and writes 💩 code.
 
-I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS, and from time to time I do a bit of 🚀 bash (still googling basic syntax crap)
+- 🙃 I tend to forget the things I make so sometimes I end projects halved other times are done a year later, or simply never
 
-👯 Rant over my code, steal it, fork it, blow it up, idk. Feedback and Destructive opinion are always welcome.
+ - I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS, and from time to time I do a bit of 🚀 bash (still googling basic syntax crap)
 
-🌱 Currently learning more bash and C++ and some workflow practices (gonna crash)
+- 👯 Rant over my code, steal it, fork it, blow it up, idk. Feedback and Destructive opinion are always welcome.
 
-👾 Linux is my passion, even if its one to suffer when ricing
+- 🌱 Currently learning bash scripting
 
-💻 Currently using *based* Archlabs on bspwm themed with my own colorscheme, [Aquarium](https://github.com/FrenzyExists/aquarium-vim)
+- 👾 Linux is my passion, even if its one to suffer when ricing
 
-:smile: Pronouns: Apache Attack Helicopter 🚁
+- 💻 Currently using *based* Archlabs on bspwm themed with my own colorscheme, [Aquarium](https://github.com/FrenzyExists/aquarium-vim)
 
 ### Current dots
 - [Aquarium dotfiles](https://github.com/FrenzyExists/dotfiles)
@@ -27,7 +32,7 @@ I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS, and from time to time I d
 Project                     | Progress                       | Location
 -----------                 | --------                       |--------                                                              |
 frenzch                     | Early access                   | https://github.com/FrenzyExists/frenzch.sh                           |
-Score Board JS              | Done... yay                    | https://github.com/FrenzyExists/OneDayBootCampScoreboard             |
+Score Board JS              | Done... yay                    | https://github.com/FrenzyExists/OneDayBootCagmpScoreboard             |
 Tic Tac Toe Python GUI      | Never gonna finish it          | Around... I guess?                                                   |
 Personal Website # 1        | Kinda Complete(?)              | Coming Soon                                                          |
 Personal Website # 2        | Maybe Complete(?)              | My Profile                                                           |
@@ -47,24 +52,12 @@ Resource                                                  | Description
 [Wallpapers](https://github.com/FrenzyExists/wallpapers)  | Aesthetic Wallpapers
 [Programming Books](https://github.com/FrenzyExists/programming-books) | Ebook dump, its based
 
-[![Frenzy's Stats](https://github-readme-stats.vercel.app/api?username=frenzyexists&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 
-[![Project Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/><br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frenzyexists&theme=nord" alt="frenzystreaks" /></p>
-
-<br/><br/>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=frenzyexists&title=Stars,Followers,Commit,PR,Repo&theme=nord&no-frame=true&margin-w=15)
+<h3 align="center">🏆 Trophies 🏆</h3>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=frenzyexists&title=Stars,Followers,Commit,PR,Repo,MultiLanguage&theme=nord&no-frame=true&margin-w=20"></p>
 
 <br/><br/><br/><br/>
 
-
 ### Spotify Playing 🎧 
 [<img src="https://spotify-now-playing-hhsy1ompp-frenzyexists.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31384113f5b94495bfa760f151223b29)
-
-
-### ⚡ Fun fact: Pikachu is a mouse
