@@ -27,12 +27,37 @@
 ### Current dots
 - [Aquarium dotfiles](https://github.com/FrenzyExists/dotfiles)
 
+## 💙 Technologies 💙
+
+<h4 align="center">Editors</h4>
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/neovim%20-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF">
+</h3>
+
+<h4 align="center">Programming Languages</h4>
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/java%20-%23A07ACC.svg?style=for-the-badge&logo=java&logoColor=FFFFFF">
+</h3>
+
+<h4 align="center">Operating Systems</h4>
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/arch_linux%20-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/windows%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF">
+</h3>
+
+</br>
+
 ⚙️ I have some projects, kinda, small trinkets I make for fun.
 
 Project                     | Progress                       | Location
 -----------                 | --------                       |--------                                                              |
 frenzch                     | Early access                   | https://github.com/FrenzyExists/frenzch.sh                           |
-Score Board JS              | Done... yay                    | https://github.com/FrenzyExists/OneDayBootCagmpScoreboard             |
+Score Board JS              | Done... yay                    | https://github.com/FrenzyExists/OneDayBootCagmpScoreboard            |
 Tic Tac Toe Python GUI      | Never gonna finish it          | Around... I guess?                                                   |
 Personal Website # 1        | Kinda Complete(?)              | Coming Soon                                                          |
 Personal Website # 2        | Maybe Complete(?)              | My Profile                                                           |
@@ -51,9 +76,7 @@ Resource                                                  | Description
 -----------                                               | --------
 [Wallpapers](https://github.com/FrenzyExists/wallpapers)  | Aesthetic Wallpapers
 [Programming Books](https://github.com/FrenzyExists/programming-books) | Ebook dump, its based
-
-<br/><br/>
-
+  
 <h3 align="center">🏆 Trophies 🏆</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=frenzyexists&title=Stars,Followers,Commit,PR,Repo,MultiLanguage&theme=nord&no-frame=true&margin-w=20"></p>
 
