@@ -79,8 +79,3 @@ Resource                                                  | Description
   
 <h3 align="center">🏆 Trophies 🏆</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=frenzyexists&title=Stars,Followers,Commit,PR,Repo,MultiLanguage&theme=nord&no-frame=true&margin-w=20"></p>
-
-<br/><br/><br/><br/>
-
-### Spotify Playing 🎧 
-[<img src="https://spotify-now-playing-hhsy1ompp-frenzyexists.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31384113f5b94495bfa760f151223b29)
