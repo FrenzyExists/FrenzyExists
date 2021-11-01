@@ -79,3 +79,6 @@ Resource                                                  | Description
   
 <h3 align="center">🏆 Trophies 🏆</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=frenzyexists&title=Stars,Followers,Commit,PR,Repo,MultiLanguage&theme=nord&no-frame=true&margin-w=20"></p>
+
+
+![image](https://user-images.githubusercontent.com/47986470/139616587-2e254d34-0fd1-4abe-b80c-67d92e3a7014.png)
