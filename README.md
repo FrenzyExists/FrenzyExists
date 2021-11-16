@@ -1,7 +1,11 @@
 
 # Hi! My name is [Frenzy ](https://frenzyexists.github.io/Webfolio/) <img src="https://raw.githubusercontent.com/FrenzyExists/FrenzyExists/master/pikahello.gif" width="80px">
 
-![Profile Views](https://api.ghprofile.me/view?username=frenzyexists&color=2E3440&label=profile_views)
+<a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
+   <img alt="LinkedIn - Pikachu" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+![Views](https://api.ghprofile.me/view?username=frenzyexists&color=2E3440&label=views)
 
 ## 💡 About
 <a href="https://github.com/FrenzyExists">
