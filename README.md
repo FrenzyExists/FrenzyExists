@@ -57,6 +57,8 @@
 Project                     | Progress                       | Location
 -----------                 | --------                       |--------                                                              |
 frenzch                     | Early access                   | https://github.com/FrenzyExists/frenzch.sh                           |
+evil-pokedex                | In Progress along college      | S O O N |
+simple booking system       | In Development Hell            | PLZ END MY MISSERY |
 Score Board JS              | Done... yay                    | https://github.com/FrenzyExists/OneDayBootCagmpScoreboard            |
 Tic Tac Toe Python GUI      | Never gonna finish it          | Around... I guess?                                                   |
 Personal Website # 1        | Kinda Complete(?)              | Coming Soon                                                          |
