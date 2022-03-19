@@ -5,7 +5,9 @@
    <img alt="LinkedIn - Pikachu" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!-- ![Views](https://api.ghprofile.me/view?username=frenzyexists&color=2E3440&label=views) -->
+![Visitor Count](https://profile-counter.glitch.me/frenzyexists/count.svg)
+<!-- ![](https://komarev.com/ghpvc/?username=frenzyexists&style=flat-square) -->
+
 
 ## 💡 About
 <a href="https://github.com/FrenzyExists">
