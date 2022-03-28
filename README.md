@@ -98,7 +98,7 @@
 
 </br>
 
-⚙️ I have some projects, kinda, small trinkets I make for fun.
+⚙️ Here are a bunch of notable projects I've managed to fully complete. Expect more soon!
 
 Project              |Technology    |Theme            | Location
 -----------          | --------     | --------        | --------
