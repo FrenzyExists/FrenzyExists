@@ -100,16 +100,18 @@
 
 ⚙️ Here are a bunch of notable projects I've managed to fully complete. Expect more soon!
 
-Project              |Technology    |Theme            | Location
------------          | --------     | --------        | --------
-Memory Game          |HTML/CSS/JS   | Game            |
-Score Board          |HTML/CSS/JS   | App             | https://github.com/FrenzyExists/OneDayBootCagmpScoreboard
-Paint                |HTML/CSS/JS   | App             | https://github.com/FrenzyExists/Simple_Paint_JS
-Solve The Crime      |Java          | Data Structures | https://github.com/FrenzyExists/Solve-The-Crime
-Linked Lists         |Java          | Data Structures | https://github.com/FrenzyExists/Linked-Lists-Everywhere
-Meteora              |Python/Pygame | Game            | https://github.com/FrenzyExists/Meteora-python
-frenzch.sh           |Bash          | CLI/Utility     | https://github.com/FrenzyExists/frenzch.sh
-Password Generator   |HTML/CSS/JS   | App/Utility     |
+Project                       |Technology        |Theme            | Location
+-----------                   | --------         | --------        | --------
+Bloom Filter                  |Python/Numpy/mmh3 | Algorithm       | https://github.com/FrenzyExists/bloom-filter-college-project
+Memory Game                   |HTML/CSS/JS       | Game            | https://github.com/FrenzyExists/CodePathSITE-Prework
+Score Board                   |HTML/CSS/JS       | App             | https://github.com/FrenzyExists/OneDayBootCagmpScoreboard
+Paint                         |HTML/CSS/JS       | App             | https://github.com/FrenzyExists/Simple_Paint_JS
+Solve The Crime               |Java              | Data Structures | https://github.com/FrenzyExists/Solve-The-Crime
+Linked Lists                  |Java              | Data Structures | https://github.com/FrenzyExists/Linked-Lists-Everywhere
+Meteora                       |Python/Pygame     | Game            | https://github.com/FrenzyExists/Meteora-python
+frenzch.sh                    |Bash              | CLI/Utility     | https://github.com/FrenzyExists/frenzch.sh
+Password Generator            |HTML/CSS/JS       | App/Utility     | https://github.com/FrenzyExists/password-generator
+Biological Sequence Alignment | Python           | Algorithm       | https://github.com/FrenzyExists/Biological-Sequence-Alignments
 
 ### Also, I have some sweet-sweet resources over here
 Resource                                                               | Description
