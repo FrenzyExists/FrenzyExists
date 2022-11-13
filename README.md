@@ -100,19 +100,22 @@
 
 ⚙️ Here are a bunch of notable projects I've managed to fully complete. Expect more soon!
 
-Project                        |Technology        |Theme            | Location
------------                    | --------         | --------        | --------
-Media Control with Arduino Uno |Arduino Uno/Python| Utility/Embeded | https://github.com/FrenzyExists/media-stuff-with-uno
-Bloom Filter                   |Python/Numpy/mmh3 | Algorithm       | https://github.com/FrenzyExists/bloom-filter-college-project
-Memory Game                    |HTML/CSS/JS       | Game            | https://github.com/FrenzyExists/CodePathSITE-Prework
-Score Board                    |HTML/CSS/JS       | App             | https://github.com/FrenzyExists/OneDayBootCagmpScoreboard
-Paint                          |HTML/CSS/JS       | App             | https://github.com/FrenzyExists/Simple_Paint_JS
-Solve The Crime                |Java              | Data Structures | https://github.com/FrenzyExists/Solve-The-Crime
-Linked Lists                   |Java              | Data Structures | https://github.com/FrenzyExists/Linked-Lists-Everywhere
-Meteora                        |Python/Pygame     | Game            | https://github.com/FrenzyExists/Meteora-python
-frenzch.sh                     |Bash              | CLI/Utility     | https://github.com/FrenzyExists/frenzch.sh
-Password Generator             |HTML/CSS/JS       | App/Utility     | https://github.com/FrenzyExists/password-generator
-Biological Sequence Alignment  | Python           | Algorithm       | https://github.com/FrenzyExists/Biological-Sequence-Alignments
+Project                        |Technology        |Theme                | Location
+-----------                    | --------         | --------            | --------
+Unit Converter                 |HTML/CSS/JS       | App/Scrimba         | https://github.com/FrenzyExists/unit-converter
+Assembly Micro I excersises    |MIPS Assembly     | Uni/CLI             | https://github.com/FrenzyExists/assembly-homework  
+Passenger Counter              |HTML/CSS/JS       | App/Scrimba         | https://github.com/FrenzyExists/passenger-counter
+Media Control with Arduino Uno |Arduino Uno/Python| Utility/Embeded     | https://github.com/FrenzyExists/media-stuff-with-uno
+Bloom Filter                   |Python/Numpy/mmh3 | Uni/Algorithm       | https://github.com/FrenzyExists/bloom-filter-college-project
+Memory Game                    |HTML/CSS/JS       | Game                | https://github.com/FrenzyExists/CodePathSITE-Prework
+Score Board                    |HTML/CSS/JS       | App                 | https://github.com/FrenzyExists/OneDayBootCagmpScoreboard
+Paint                          |HTML/CSS/JS       | App                 | https://github.com/FrenzyExists/Simple_Paint_JS
+Solve The Crime                |Java              | Uni/Data Structures | https://github.com/FrenzyExists/Solve-The-Crime
+Linked Lists                   |Java              | Uni/Data Structures | https://github.com/FrenzyExists/Linked-Lists-Everywhere
+Meteora                        |Python/Pygame     | Game                | https://github.com/FrenzyExists/Meteora-python
+frenzch.sh                     |Bash              | CLI/Utility         | https://github.com/FrenzyExists/frenzch.sh
+Password Generator             |HTML/CSS/JS       | App/Utility         | https://github.com/FrenzyExists/password-generator
+Biological Sequence Alignment  | Python           | Uni/Algorithm       | https://github.com/FrenzyExists/Biological-Sequence-Alignments
 
 ### Also, I have some sweet-sweet resources over here
 Resource                                                               | Description
