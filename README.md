@@ -120,10 +120,11 @@ Password Generator             |HTML/CSS/JS       | App/Utility         | https:
 Biological Sequence Alignment  | Python           | Uni/Algorithm       | https://github.com/FrenzyExists/Biological-Sequence-Alignments
 
 ### Also, I have some sweet-sweet resources over here
-Resource                                                               | Description
------------                                                            | --------
-[Wallpapers](https://github.com/FrenzyExists/wallpapers)               | Aesthetic Wallpapers
-[Programming Books](https://github.com/FrenzyExists/programming-books) | Programming books I have to yet fully read
+Resource                                                                   | Description
+-----------                                                                | --------
+[Wallpapers](https://github.com/FrenzyExists/wallpapers)                   | Aesthetic Wallpapers
+[Programming Books](https://github.com/FrenzyExists/programming-books)     | Programming books I have to yet fully read
+[College Presentations](https://github.com/FrenzyExists/college-resources) | Presentations of some of the courses I took/taking in college
   
 <h3 align="center">🏆 Trophies 🏆</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=frenzyexists&title=Stars,Followers,Commit,PR,Repo,MultiLanguage&theme=nord&no-frame=true&margin-w=20"></p>
