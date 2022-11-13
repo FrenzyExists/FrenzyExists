@@ -19,15 +19,17 @@
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
 </a>
 
-- 📓 Your average college CE student. Good in coding, bad in circuits
+- 📓 Your average college CE student. Researching with Texas Instruments and Lockheed Martin as part of IAP
 
-- 🙃 Sometimes due to every day life I may leave a project halve finished, just to later pick it up a year later or so
+- 🙃 This is both my college and personal repo, so my apologies for the wild inconsistent push schedules
 
-- My skills include mayor programming languages such as java and python, engineering, teamwork, among others
+- ♾ Spanish and English speaker, puedo traducir between english to spanish ó español a inglés.
+
+- ⚒ My skills include mayor programming languages such as java and python, engineering, teamwork, among others
 
 - 👯 I believe FOSS should be promoted more in the academy. Whatever I code for either college or personal use I put it public for others to peek and use it. Feedback and criticism are always welcome. 
 
-- 🌱 Currently learning better coding practices and more backend technologies
+- 🌱 Currently learning IoT, even more arduino, Assembly, and whatever embedded shennanigan I can find
 
 - 👾 My OS of choice is Linux, it gives me the freedom and ease I could not find in Windows.
 
