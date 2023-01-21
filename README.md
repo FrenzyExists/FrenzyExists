@@ -1,7 +1,7 @@
 
 # Hey there! <img src="https://raw.githubusercontent.com/FrenzyExists/FrenzyExists/master/pikahello.gif" width="80px">
 
-<a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
+<a target="_blank" href="https://www.linkedin.com/in/angel-luis-garcia/" target="_blank">
    <img alt="LinkedIn - Pikachu" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1/overlay/1635486540638/single-media-viewer?type=DOCUMENT&profileId=ACoAADiUnqoB1g2S1FtRImZZc1P7vKeePkFoXcA&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvI3EmVJlTLWliG7dEPZNKg%3D%3D" target="_blank">
