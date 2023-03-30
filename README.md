@@ -25,7 +25,7 @@
 
 - ♾ Spanish and English speaker, puedo traducir between english to spanish ó español a inglés.
 
-- ⚒ My skills include mayor programming languages such as java and python, engineering, teamwork, among others
+- ⚒ My skills include major programming languages such as java and python, engineering, teamwork, among others
 
 - 👯 I believe FOSS should be promoted more in the academy. Whatever I code for either college or personal use I put it public for others to peek and use it. Feedback and criticism are always welcome. 
 
