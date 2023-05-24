@@ -25,7 +25,7 @@
 
 - ♾ Spanish and English speaker, puedo traducir between english to spanish ó español a inglés.
 
-- ⚒ My skills include mayor programming languages such as java and python, engineering, teamwork, among others
+- ⚒ My skills include major programming languages such as java and python, engineering, teamwork, among others
 
 - 👯 I believe FOSS should be promoted more in the academy. Whatever I code for either college or personal use I put it public for others to peek and use it. Feedback and criticism are always welcome. 
 
@@ -60,7 +60,7 @@
 <!-- d1ac68 -->
 <h3 align="center">
    <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
-      <img alt="Java" src="https://img.shields.io/badge/Java-d18968.svg?&style=for-the-badge&logo=java&logoColor=white" />
+      <img alt="Java" src="https://img.shields.io/badge/Java-d18968.svg?&style=for-the-badge&logo=openjdk&logoColor=white" />
    </a>
    <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
       <img alt="Python" src="https://img.shields.io/badge/Python-32376b.svg?&style=for-the-badge&logo=python&logoColor=white" />
@@ -88,6 +88,9 @@
    </a>
    <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
       <img alt="Bash" src="https://img.shields.io/badge/Bash-353535.svg?&style=for-the-badge&logo=gnu-bash&logoColor=green" />
+   </a>
+   <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-23013243" target="_blank">
+      <img alt="Verilog" src="https://img.shields.io/badge/SystemVerilog-013243.svg?&style=for-the-badge" />
    </a>
 </h3>
 
