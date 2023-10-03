@@ -19,7 +19,9 @@
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
 </a>
 
-- 📓 Your average college CE student. Researching with Texas Instruments and Lockheed Martin as part of IAP
+<!-- - 📓 Your average college CE student. Researching with Texas Instruments and Lockheed Martin as part of IAP -->
+
+- 🎓 Soon to graduate Computer Engineering mayor. Working as TA for Advanced Programming (CIIC-4010). Still doing stuff with Texas Instruments
 
 - 🙃 This is both my college and personal repo, so my apologies for the wild inconsistent push schedules
 
