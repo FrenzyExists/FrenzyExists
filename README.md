@@ -21,13 +21,15 @@
 
 <!-- - 📓 Your average college CE student. Researching with Texas Instruments and Lockheed Martin as part of IAP -->
 
-- 🎓 Soon to graduate Computer Engineering mayor. Working as TA for Advanced Programming (CIIC-4010). Still doing stuff with Texas Instruments
+- 🎓 Soon to graduate Computer Engineering mayor. Working as TA for Advanced Programming (CIIC-4010). Still doing stuff with Texas Instruments. In Raytheon team messing around with expensive GNSS for competition.
+
+- 😎 About to take Micro 2 with the gang
 
 - 🙃 This is both my college and personal repo, so my apologies for the wild inconsistent push schedules
 
 - ♾ Spanish and English speaker, puedo traducir between english to spanish ó español a inglés.
 
-- ⚒ My skills include major programming languages such as java and python, engineering, teamwork, among others
+- ⚒ My skills include programming languages such as C++, C, Verilog/VHDL and Python. I'm a team player, and a tornado of wacky ideas 🥴
 
 - 👯 I believe FOSS should be promoted more in the academy. Whatever I code for either college or personal use I put it public for others to peek and use it. Feedback and criticism are always welcome. 
 
@@ -133,6 +135,10 @@ Resource                                                                   | Des
   
 <h3 align="center">🏆 Trophies 🏆</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=frenzyexists&title=Stars,Followers,Commit,PR,Repo,MultiLanguage&theme=nord&no-frame=true&margin-w=20"></p>
+
+</br>
+
+![HelloMyHumanNeedsAJobAndINeedTheHouseToMyselfAgainLookingForAJobGIF](https://github.com/FrenzyExists/FrenzyExists/assets/47986470/824f0244-fabf-47c8-8d2b-a114ffa18e53)
 
 
 <!-- ![image](https://user-images.githubusercontent.com/47986470/139616587-2e254d34-0fd1-4abe-b80c-67d92e3a7014.png) -->
