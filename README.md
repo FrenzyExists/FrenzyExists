@@ -64,6 +64,12 @@
 <!-- d1ac68 -->
 <h3 align="center">
    <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
+      <img alt="C" src="https://img.shields.io/badge/C-323968.svg?&style=for-the-badge&logo=c&logoColor=white" />
+   </a>
+   <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
+      <img alt="C++" src="https://img.shields.io/badge/C++-323968.svg?&style=for-the-badge&logo=cpp&logoColor=white" />
+   </a>
+   <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
       <img alt="Java" src="https://img.shields.io/badge/Java-d18968.svg?&style=for-the-badge&logo=openjdk&logoColor=white" />
    </a>
    <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
