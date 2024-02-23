@@ -113,14 +113,22 @@
 
 </br>
 
+⚡As an embedded guy I also want to show my hardware skills, so bellow are a list of some of the things I did
+
+Project                                                           | Technology                | Hardware                          | Location
+-----------                                                       | --------                  | --------                          | --------
+Microprocessors II - Lab 3: Interrupts, Debouncing and the Keypad | Espdf/C                   | ESP32-WROVER-Devkit               | https://github.com/FrenzyExists/Lab3Espressif
+Microprocessors II - Lab 4: Interrupts, Debouncing and the Keypad | Espdf/C                   | ESP32-WROVER-Devkit               | https://github.com/FrenzyExists/Lab4Espressif
+SPARC V8 HDL Implementation                                       | Icarus Verilog/GTK Wave   | Simulation, FPGA not required atm | https://github.com/FrenzyExists/Computer-Architecture-Project-SPARC
+Media Control with Arduino Uno                                    | Arduino/C++/Python        | Arduino Uno R2                    | https://github.com/FrenzyExists/media-stuff-with-uno
+Microprocessors I MIPS Assembly I assignments                     | MIPS Assembly             | Simulation                        | https://github.com/FrenzyExists/assembly-homework  
+
 ⚙️ Here are a bunch of notable projects I've managed to fully complete. Expect more soon!
 
 Project                        |Technology        |Theme                | Location
 -----------                    | --------         | --------            | --------
 Unit Converter                 |HTML/CSS/JS       | App/Scrimba         | https://github.com/FrenzyExists/unit-converter
-Assembly Micro I excersises    |MIPS Assembly     | Uni/CLI             | https://github.com/FrenzyExists/assembly-homework  
 Passenger Counter              |HTML/CSS/JS       | App/Scrimba         | https://github.com/FrenzyExists/passenger-counter
-Media Control with Arduino Uno |Arduino Uno/Python| Utility/Embeded     | https://github.com/FrenzyExists/media-stuff-with-uno
 Bloom Filter                   |Python/Numpy/mmh3 | Uni/Algorithm       | https://github.com/FrenzyExists/bloom-filter-college-project
 Memory Game                    |HTML/CSS/JS       | Game                | https://github.com/FrenzyExists/CodePathSITE-Prework
 Score Board                    |HTML/CSS/JS       | App                 | https://github.com/FrenzyExists/OneDayBootCagmpScoreboard
