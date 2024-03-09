@@ -25,6 +25,8 @@
 
 - 😎 About to take Micro 2 with the gang
 
+- 🍀 Got into the Codepath gang in Spring, 2024 | Intermediate Android 
+
 - 🙃 This is both my college and personal repo, so my apologies for the wild inconsistent push schedules
 
 - ♾ Spanish and English speaker, puedo traducir between english to spanish ó español a inglés.
