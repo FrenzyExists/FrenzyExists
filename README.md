@@ -115,6 +115,14 @@
 
 </br>
 
+🍀 Got into Codepath and made a bunch of projects
+Project                        | Project or Lab        | Location
+------------------------------ | --------------------- | --------
+Wordle                         | Project               | https://github.com/FrenzyExists/Wordle
+CodepathEmail thing            | Lab                   | https://github.com/FrenzyExists/CodepathMail
+Wishlist                       | Project               | https://github.com/FrenzyExists/Wishlist
+NY Times Best-Sellers          | Lab                   | https://github.com/FrenzyExists/NY-Best-Seller-app
+
 ⚡As an embedded guy I also want to show my hardware skills, so bellow are a list of some of the things I did
 
 Project                                                           | Technology                | Hardware                          | Location
