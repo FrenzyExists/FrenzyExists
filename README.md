@@ -19,15 +19,19 @@
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
 </a>
 
-<!-- - 📓 Your average college CE student. Researching with Texas Instruments and Lockheed Martin as part of IAP -->
+<!-- - 📓 Your average college CE student. Doing a research project with Texas Instruments as part of IAP -->
 
-- 🎓 Soon to graduate Computer Engineering mayor. Working as TA for Advanced Programming (CIIC-4010). Still doing stuff with Texas Instruments. In Raytheon team messing around with expensive GNSS for competition.
+- 🎓 Soon to graduate Computer Engineering mayor. Working as TA for Advanced Programming (CIIC-4010). Still doing a research project with Texas Instruments at university.
 
-- 🗿 Taking Switch 2 (FPGAs) and Web103 (ill try cyb next time)
+- 🗿 Taking Switch 2 (FPGAs)
 
-- 🍀 Got into the Codepath gang in Spring, 2024 | Intermediate Android 
+- 🍀 Got a certificate from the Codepath Intermediate Android (AND102) course in Spring, 2024
+
+- 🍀 Taking WEB103 now
 
 - 🙃 This is both my college and personal repo, so my apologies for the wild inconsistent push schedules
+
+- 👏 Got an internship at GEHC for summer 2024 and worked in network and software testing 
 
 - ♾ Spanish and English speaker, puedo traducir between english to spanish ó español a inglés.
 
