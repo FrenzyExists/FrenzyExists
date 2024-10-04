@@ -33,17 +33,15 @@
 
 - 👏 Got an internship at GEHC for summer 2024 and worked in network and software testing 
 
-- ♾ Spanish and English speaker, puedo traducir between english to spanish ó español a inglés.
+- ♾ A Bilingual speaker, Spanish and English speaker
 
 - ⚒ My skills include programming languages such as C++, C, Verilog/VHDL and Python. I'm a team player, and a tornado of wacky ideas 🥴
 
-- 👯 I believe FOSS should be promoted more in the academy. Whatever I code for either college or personal use I put it public for others to peek and use it. Feedback and criticism are always welcome. 
-
-- 🌱 Currently learning IoT, even more arduino, Assembly, and whatever embedded shennanigan I can find
+- 👯 I believe FOSS should be promoted more in the academy. Most of my work is uploaded here, feel free to to take it apart, I'm always looking to improve my projects!
 
 - 👾 My OS of choice is Linux, it gives me the freedom and ease I could not find in Windows.
 
-- 💻 Currently using Archlabs (an Arch flavor with an actual proper CLI installer) on bspwm themed with my own colorscheme, [Aquarium](https://github.com/FrenzyExists/aquarium-vim). You can find my dotfiles [here](https://github.com/FrenzyExists/dotfiles)
+- 💻 (OLD) Used to do ricing on an Archlabs setup with my own colorscheme, [Aquarium](https://github.com/FrenzyExists/aquarium-vim). You can find my dotfiles [here](https://github.com/FrenzyExists/dotfiles). I'm on 🍎 Mac now
 
 ![Visitor Count](https://profile-counter.glitch.me/frenzyexists/count.svg)
 
