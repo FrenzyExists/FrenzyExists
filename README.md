@@ -23,7 +23,7 @@
 
 - 🎓 Soon to graduate Computer Engineering mayor. Working as TA for Advanced Programming (CIIC-4010). Still doing stuff with Texas Instruments. In Raytheon team messing around with expensive GNSS for competition.
 
-- 😎 About to take Micro 2 with the gang
+- 🗿 Taking Switch 2 (FPGAs) and Web103 (ill try cyb next time)
 
 - 🍀 Got into the Codepath gang in Spring, 2024 | Intermediate Android 
 
