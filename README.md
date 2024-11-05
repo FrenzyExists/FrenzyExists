@@ -152,13 +152,20 @@ frenzch.sh                     |Bash              | CLI/Utility         | https:
 Password Generator             |HTML/CSS/JS       | App/Utility         | https://github.com/FrenzyExists/password-generator
 Biological Sequence Alignment  | Python           | Uni/Algorithm       | https://github.com/FrenzyExists/Biological-Sequence-Alignments
 
-### Also, I have some sweet-sweet resources over here
+### Some resources you can pick wether is wallpapers or programming stuff
 Resource                                                                   | Description
 -----------                                                                | --------
 [Wallpapers](https://github.com/FrenzyExists/wallpapers)                   | Aesthetic Wallpapers
 [Programming Books](https://github.com/FrenzyExists/programming-books)     | Programming books I have to yet fully read
 [College Presentations](https://github.com/FrenzyExists/college-resources) | Presentations of some of the courses I took/taking in college
-  
+
+### Some Gists I made
+
+Gist                 | Location
+-------------------- | -----------------
+Simplification Table | https://gist.github.com/FrenzyExists/7191b0704643224a2f884fe725dc691e
+
+
 <h3 align="center">🏆 Trophies 🏆</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=frenzyexists&title=Stars,Followers,Commit,PR,Repo,MultiLanguage&theme=nord&no-frame=true&margin-w=20"></p>
 
