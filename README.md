@@ -27,8 +27,6 @@
 
 - 🍀 Got a certificate from the Codepath Intermediate Android (AND102) course in Spring, 2024
 
-- 🍀 Taking WEB103 now
-
 - 🙃 This is both my college and personal repo, so my apologies for the wild inconsistent push schedules
 
 - 👏 Got an internship at GEHC for summer 2024 and worked in network and software testing 
