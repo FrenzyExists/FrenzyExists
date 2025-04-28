@@ -169,7 +169,7 @@ Simplification Table | https://gist.github.com/FrenzyExists/7191b0704643224a2f88
 
 </br>
 
-![HelloMyHumanNeedsAJobAndINeedTheHouseToMyselfAgainLookingForAJobGIF](https://github.com/FrenzyExists/FrenzyExists/assets/47986470/824f0244-fabf-47c8-8d2b-a114ffa18e53)
+<!-- ![HelloMyHumanNeedsAJobAndINeedTheHouseToMyselfAgainLookingForAJobGIF](https://github.com/FrenzyExists/FrenzyExists/assets/47986470/824f0244-fabf-47c8-8d2b-a114ffa18e53) -->
 
 
 <!-- ![image](https://user-images.githubusercontent.com/47986470/139616587-2e254d34-0fd1-4abe-b80c-67d92e3a7014.png) -->
