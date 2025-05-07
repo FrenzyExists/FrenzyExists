@@ -19,9 +19,9 @@
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
 </a>
 
-<!-- - 📓 Your average college CE student. Doing a research project with Texas Instruments as part of IAP -->
+<!-- - 📓 Your average college CE student. Working at HPE -->
 
-- 🎓 Soon to graduate Computer Engineering mayor. Working as TA for Advanced Programming (CIIC-4010). Still doing a research project with Texas Instruments at university.
+- 🎓 Soon to graduate Computer Engineering mayor. Working as TA for Advanced Programming (CIIC-4010). Finishing Capstone, developing Talantos.
 
 - 🗿 Taking Switch 2 (FPGAs)
 
