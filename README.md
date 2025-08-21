@@ -19,9 +19,10 @@
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
 </a>
 
-<!-- - 📓 Your average college CE student. Working @ HPE -->
 
-- 🎓 Soon to graduate Computer Engineering mayor. Developing Talantos.
+- 🎓 I GRADUATED FINALLY! I'M FREE I GOT PROMOTED TO EMPLOYED EEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+
+- 📓 Your average college CE student. Working @ HPE
 
 - 🗿 Taking Capstone
 
