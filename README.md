@@ -1,5 +1,5 @@
 
-# Hey there! <img src="https://raw.githubusercontent.com/FrenzyExists/FrenzyExists/master/pikahello.gif" width="80px">
+# Sup <img src="https://raw.githubusercontent.com/FrenzyExists/FrenzyExists/master/pikahello.gif" width="80px">
 
 <a target="_blank" href="https://www.linkedin.com/in/angel-luis-garcia/" target="_blank">
    <img alt="LinkedIn - Pikachu" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,30 +19,23 @@
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
 </a>
 
+- 📓 Computer Engineer. Working @ HPE
 
-- 🎓 I GRADUATED FINALLY! I'M FREE I GOT PROMOTED TO EMPLOYED EEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+- 🙃 Personal repo, busy at work.
 
-- 📓 Your average college CE student. Working @ HPE
+- ♾ English & Spanish **only**
 
-- 🗿 Taking Capstone
+- ⚒ Programming Languages include Java, C++, C, Verilog/VHDL and Python.
 
-- 🍀 Got a certificate from the Codepath Intermediate Android (AND102) course in Spring, 2024
+- 🥴 Chaotic-Good. Going wild building with any idea that pops in.
 
-- 🙃 This is both my college and personal repo, so my apologies for the wild inconsistent push schedules
+- 👯 FOSS should be promoted in the academy. My personal work is hosted here. Feel free to critique and/or improve
 
-- 👏 Got an internship at GEHC for summer 2024 and worked in network and software testing 
+- 👾 Prefered OS is Unix, but can work with anything as long as it has a functioning terminal.
 
-- ♾ A Bilingual speaker, Spanish and English speaker
+- 💻 Used to do ricing during my uni years, you can find my colorscheme, [Aquarium](https://github.com/FrenzyExists/aquarium-vim) and find my old Archlabs dotfiles [here](https://github.com/FrenzyExists/dotfiles). 
 
-- ⚒ My skills include programming languages such as C++, C, Verilog/VHDL and Python. I'm a team player, and a tornado of wacky ideas 🥴
-
-- 👯 I believe FOSS should be promoted more in the academy. Most of my work is uploaded here, feel free to to take it apart, I'm always looking to improve my projects!
-
-- 👾 My OS of choice is Linux, it gives me the freedom and ease I could not find in Windows.
-
-- 💻 (OLD) Used to do ricing on an Archlabs setup with my own colorscheme, [Aquarium](https://github.com/FrenzyExists/aquarium-vim). You can find my dotfiles [here](https://github.com/FrenzyExists/dotfiles). I'm on 🍎 Mac now
-
-![Visitor Count](https://profile-counter.glitch.me/frenzyexists/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/frenzyexists/count.svg) -->
 
 ## 💙 Technologies 💙
 
@@ -164,10 +157,10 @@ Gist                 | Location
 -------------------- | -----------------
 Simplification Table | https://gist.github.com/FrenzyExists/7191b0704643224a2f884fe725dc691e
 
-
+<!--
 <h3 align="center">🏆 Trophies 🏆</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=frenzyexists&title=Stars,Followers,Commit,PR,Repo,MultiLanguage&theme=nord&no-frame=true&margin-w=20"></p>
-
+-->
 </br>
 
 <!-- ![HelloMyHumanNeedsAJobAndINeedTheHouseToMyselfAgainLookingForAJobGIF](https://github.com/FrenzyExists/FrenzyExists/assets/47986470/824f0244-fabf-47c8-8d2b-a114ffa18e53) -->
